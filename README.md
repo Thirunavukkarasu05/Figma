@@ -31,8 +31,59 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## OUTPUT:
+## code:
+```
+/* Home page */
 
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #2411F5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Affiliated to Anna University */
+
+position: absolute;
+width: 318px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Login Page */
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #2BF10B;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* SEC Page */
+
+position: relative;
+width: 375px;
+height: 640px;
+
+background: #F2149A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+```
+## OUTPUT:
+![Output](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
